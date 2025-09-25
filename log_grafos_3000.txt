@@ -1,0 +1,9 @@
+0.1 | Time MED: 93.4 ms | Result MED: 55.3333
+0.2 | Time MED: 79.1 ms | Result MED: 29.7333
+0.3 | Time MED: 70.0333 ms | Result MED: 20.2
+0.4 | Time MED: 62.0333 ms | Result MED: 14.9667
+0.5 | Time MED: 56.8667 ms | Result MED: 11.4
+0.6 | Time MED: 42.6667 ms | Result MED: 9.16667
+0.7 | Time MED: 30.1667 ms | Result MED: 7.13333
+0.8 | Time MED: 20.2333 ms | Result MED: 5.56667
+0.9 | Time MED: 9.46667 ms | Result MED: 4.36667

@@ -1,0 +1,9 @@
+1 | Densidad: 0.1 | Time MED: 3673.2 ms | Result MED: 58.2 | Result STD: 0.87178
+2 | Densidad: 0.2 | Time MED: 3477.63 ms | Result MED: 32.8333 | Result STD: 0.636832
+3 | Densidad: 0.3 | Time MED: 4050.6 ms | Result MED: 22.8333 | Result STD: 0.582142
+4 | Densidad: 0.4 | Time MED: 2640.4 ms | Result MED: 17.0333 | Result STD: 0.314466
+5 | Densidad: 0.5 | Time MED: 3317.67 ms | Result MED: 13.6 | Result STD: 0.553775
+6 | Densidad: 0.6 | Time MED: 2199.83 ms | Result MED: 10.8 | Result STD: 0.4
+7 | Densidad: 0.7 | Time MED: 3226.53 ms | Result MED: 8.9 | Result STD: 0.395811
+8 | Densidad: 0.8 | Time MED: 1202.2 ms | Result MED: 7.03333 | Result STD: 0.179505
+9 | Densidad: 0.9 | Time MED: 1273.47 ms | Result MED: 5.3 | Result STD: 0.458258
